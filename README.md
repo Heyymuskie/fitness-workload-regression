@@ -112,8 +112,7 @@ jupyter lab Polar.ipynb
 
 ## License and attribution
 
-Adapted from an MIT-licensed open-source analysis by **Sarvesh Kumar Sharma** —
-`Copyright (c) 2020 Sarvesh Kumar Sharma`, MIT Licence. Documentation, model write-up and
+Adapted from an MIT-licensed open-source analysis. MIT Licence. Documentation, model write-up and
 charts in this repository were reworked and extended for this project. See [LICENSE](LICENSE).
 
 ---
