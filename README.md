@@ -117,5 +117,5 @@ charts in this repository were reworked and extended for this project. See [LICE
 
 ---
 
-**Muskan Choudhary** · [Portfolio case study](https://muskan-portfolio.vercel.app/projects/fitness-workload-regression) ·
+**Muskan Choudhary** · [Portfolio case study](https://muskan-choudhary.vercel.app/projects/fitness-workload-regression) ·
 [LinkedIn](https://www.linkedin.com/in/muskiee) · [GitHub](https://github.com/Heyymuskie)
